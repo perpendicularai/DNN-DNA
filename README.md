@@ -8,7 +8,7 @@ This is a simple Deep Neural Network with Dynamic Neuron Addition. This means th
 
 ### Dependencies
 #### The latest version of each package was used
-numpy
-nnfs
-scikit-learn
-tensorflow
+- numpy
+- nnfs
+- scikit-learn
+- tensorflow
