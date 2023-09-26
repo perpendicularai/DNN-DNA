@@ -1,3 +1,6 @@
+![image](https://github.com/metalninja1001/DNN-DNA/assets/101802030/beb4e4b0-6320-40e0-bcf1-b316c6038b8d)
+
+
 # DNN-DNA
 This is a simple Deep Neural Network with Dynamic Neuron Addition. This means that neurons are added dynamically as the neural network grows. This is an adaptation of the Adaptive Neural Net repo, which can be seen as a feedforward neural network with a single dense layer and an activation layer. As mentioned in the subsequent repo, the neural network design lends strongly from the concept of neurogenesis, in that the brain builds capacity as more gyri and sulci form. Ofcourse there are big differences in the two processes but are somewhat similar. 
 
